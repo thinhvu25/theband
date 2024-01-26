@@ -1,0 +1,5 @@
+@media (max-widht: 740px){
+    #nav > li{
+        display: block;
+    }
+}
